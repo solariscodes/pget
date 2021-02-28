@@ -1,3 +1,9 @@
+"""
+simple script to download and write files
+written for IBM Python & Data Science course
+Rodrigo feb 27, 2021
+"""
+
 import requests
 import os
 import sys
