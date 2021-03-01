@@ -26,5 +26,5 @@ if len(sys.argv) == 2:
     link=sys.argv[1]
     Pget(link)
 else:
-    print("pget.py by Solaris\nSintax: pyhton pget.py URL")
+    print("pget.py by Solaris\nSyntax: python pget.py URL")
 
